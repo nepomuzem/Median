@@ -1,2 +1,2 @@
 all:
-  g++ listas.cpp list.cpp node.cpp -o listas
+		g++ listas.cpp list.cpp node.cpp -o listas
